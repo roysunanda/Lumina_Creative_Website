@@ -1,2 +1,2 @@
-# Lumina_Creative_Website
-This is a Web Development project called Lumina Creative Website build in pure HTML and CSS.
+# Lumina Creative Web Page
+This is a Responsive Web Development project called Lumina Creative Web Page build in pure HTML and CSS.
